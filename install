@@ -12,5 +12,5 @@ mv stor.py /usr/share/ihaahi/S-TOR/
 mv stor /usr/local/bin/
 chmod +x /usr/local/bin/stor
 
-echo "`stor` install successfully"
-echo "type `stor` in target directory that you want to access via .onion link"
+echo stor install successfully
+echo type stor in target directory that you want to access via .onion link
