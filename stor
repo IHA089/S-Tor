@@ -5,4 +5,4 @@ if [ "$(id -u)" -ne 0 ]; then
     exit 1
 fi
 
-python3 /usr/share/ihaahi/S_TOR/stor.py
+python3 /usr/share/ihaahi/S-Tor/stor.py
